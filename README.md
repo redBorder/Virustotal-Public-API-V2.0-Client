@@ -1,6 +1,8 @@
-Virustotal-Public-API-V2.0-Client [![Build Status](https://api.travis-ci.org/kdkanishka/Virustotal-Public-API-V2.0-Client.png)](https://travis-ci.org/kdkanishka/Virustotal-Public-API-V2.0-Client)[![Coverage Status](https://coveralls.io/repos/kdkanishka/Virustotal-Public-API-V2.0-Client/badge.png)](https://coveralls.io/r/kdkanishka/Virustotal-Public-API-V2.0-Client)
+Virustotal-Public-API-V2.0-Client 
 =================================
-
+[![Build Status](https://api.travis-ci.org/kdkanishka/Virustotal-Public-API-V2.0-Client.png)](https://travis-ci.org/kdkanishka/Virustotal-Public-API-V2.0-Client)
+[![Coverage Status](https://coveralls.io/repos/kdkanishka/Virustotal-Public-API-V2.0-Client/badge.png)](https://coveralls.io/r/kdkanishka/Virustotal-Public-API-V2.0-Client)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/7e22dc68f5584e3a8814d990c5c049d9)](https://www.codacy.com/app/redBorder/Virustotal-Public-API-V2-0-Client)
 
 VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
 
